@@ -23,15 +23,15 @@ This was a fun class: [CSE167](https://cseweb.ucsd.edu/~alchern/teaching/cse167_
 
 Link to Tiger Heading: [Tiger](#tiger-heading)
 
-[My pictures](/Pictures/)
+[My pictures](/screenshots/)
 
-[VSCode UI](/Pictures/VSCode%20UI.png)
+[VSCode UI](/screenshots/VSCode%20UI.png)
 
-1.[part1](/Pictures/part1.png) \
-2.[part2](/Pictures/part2.png) \
-4.[part4](/Pictures/part4.png) \
-5.[part5](/Pictures/part5.png) \
-6.[part6](/Pictures/part6.png)
+1.[part1](/screenshots/part1.png) \
+2.[part2](/screenshots/part2.png) \
+4.[part4](/screenshots/part4.png) \
+5.[part5](/screenshots/part5.png) \
+6.[part6](/screenshots/part6.png)
 
 -   I want pancakes
 -   I want to eat panckes
